@@ -8,4 +8,5 @@ Hello there! This page is still pretty plain since I suck at graphics and it wil
 
 <a href="https://www.glitter-graphics.com"><img src="http://dl3.glitter-graphics.net/pub/456/456663ha2f4gnpma.gif" width=99 height=56 border=0></a> <a href="https://www.glitter-graphics.com"><img src="http://dl4.glitter-graphics.net/pub/982/982544uury8fgu9j.gif" width=150 height=20 border=0></a><br> <a href="https://www.glitter-graphics.com" target=_blank>glitter-graphics.com</a>
 <a href="https://www.glitter-graphics.com"><img src="http://dl5.glitter-graphics.net/pub/820/820095yoeyni3ype.gif" width=150 height=20 border=0></a><br><a href="https://www.glitter-graphics.com" target=_blank>glitter-graphics.com</a> 
-<a href="https://klanceiscanonking.neocities.org/"><img src="BUTTON IMG LINK" alt="ALT TEXT"></a>
+
+<a href="https://klanceiscanonking.neocities.org/"><img src="BUTTON IMG LINK" alt="won't load"></a>
